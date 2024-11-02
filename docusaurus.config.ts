@@ -7,8 +7,8 @@ const config: Config = {
   tagline: 'Bienvenue!',
   favicon: 'img/favicon.ico',
 
-  url: 'https://paladium-developpement.github.io',
-  baseUrl: '/ladomus.web/',
+  url: 'https://ladomusweb.vercel.app/',
+  baseUrl: '/',
 
   organizationName: 'Dada972dev',
   projectName: 'La domus web',
