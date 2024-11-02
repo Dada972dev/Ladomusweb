@@ -1,6 +1,6 @@
 ---
 id: images_domus
-title: 🖼️ Videos teaser:
+title: "🖼️ Videos teaser"
 sidebar_position: 1
 ---
 
