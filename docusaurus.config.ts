@@ -1,73 +1,71 @@
-import { Config } from '@docusaurus/types';
-import { themes as prismThemes } from 'prism-react-renderer';
-import sidebars from './sidebars'; // Make sure this path is correct
+import {themes as prismThemes} from 'prism-react-renderer';
+import type {Config} from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'La domus ',
-  tagline: 'Bienvenue',
+  title: 'La domus Web ',
+  tagline: '',
   favicon: 'img/favicon.ico',
-  url: 'https://ladomus-web.vercel.app/',
+
+  url: 'https://paladium-developpement.github.io',
   baseUrl: '/',
-  organizationName: 'Dada972Dev',
-  projectName: 'ladomusweb',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+
+  organizationName: 'La domus',
+  projectName: 'La domus web',
+
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
+
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'fr',
+    locales: ['fr'],
   },
+
   presets: [
     [
-      '@docusaurus/preset-classic',
+      'classic',
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars'),
-          editUrl: 'https://github.com/Dadadou972/wiki-ngbe/edit/main/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          editUrl: 'https://github.com/Dadadou972/wiki-ngbe/edit/main/website/blog/',
+          sidebarPath: './sidebars.ts',
+          editUrl:
+              'https://github.com/Paladium-Developpement/PaladiumBedrock.Wiki/tree/main/',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: './src/css/custom.css',
         },
-      },
+      } satisfies Preset.Options,
     ],
   ],
+
   themeConfig: {
+    image: 'img/docusaurus-social-card.jpg',
+    announcementBar: {
+      id: "prerelease",
+      content: 'The Wiki is currently in development, some pages may be incomplete or missing.',
+      backgroundColor: "#df4b30",
+      textColor: "#ffffff",
+      isCloseable: true,
+    },
     navbar: {
+      title: 'Paladium Bedrock',
+      logo: {
+        alt: 'Paladium Logo',
+        src: 'img/logo.svg',
+      },
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'wikiSidebar',
           position: 'left',
           label: 'Wiki',
         },
-        {
-          to: 'blog',
-          label: 'News',
-          position: 'left',
-        },
-        {
-          href: 'https://discord.gg/S59PsPvV9v',
-          label: 'Collège rosa bonheur',
-          position: 'right',
-        },
       ],
-    },
-    footer: {
-      style: 'dark',
-      links: [
-          ,
-          ],
-        },
-      copyright: `Copyright © ${new Date().getFullYear()} La domus web.`,
     },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-  },
+  } satisfies Preset.ThemeConfig,
 };
 
 export default config;
