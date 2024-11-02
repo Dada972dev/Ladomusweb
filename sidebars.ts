@@ -33,7 +33,11 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: '🏠 Description des Pièces de la Domus',
       items: [
-        'description_pieces/description_pieces', // Mettez à jour avec des sous-documents si nécessaire
+        'description_pieces/description_pieces',
+        'description_pieces/atrium',
+        'description_pieces/cubiculum',
+        'description_pieces/hotrus' +
+        'description_pieces/triclinium',// Mettez à jour avec des sous-documents si nécessaire
       ],
     },
     {
