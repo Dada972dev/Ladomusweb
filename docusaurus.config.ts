@@ -3,14 +3,14 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'La domus Web ',
-  tagline: '',
+  title: 'La domus',
+  tagline: 'Bienvenue!',
   favicon: 'img/favicon.ico',
 
   url: 'https://paladium-developpement.github.io',
-  baseUrl: '/',
+  baseUrl: '/ladomus.web/',
 
-  organizationName: 'La domus',
+  organizationName: 'Dada972dev',
   projectName: 'La domus web',
 
   onBrokenLinks: 'ignore',
@@ -28,7 +28,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-              'https://github.com/Paladium-Developpement/PaladiumBedrock.Wiki/tree/main/',
+            'https://github.com/Paladium-Developpement/PaladiumBedrock.Wiki/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -47,15 +47,15 @@ const config: Config = {
       isCloseable: true,
     },
     navbar: {
-      title: 'Paladium Bedrock',
+      title: 'La domus',
       logo: {
-        alt: 'Paladium Logo',
+        alt: '',
         src: 'img/logo.svg',
       },
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'wikiSidebar',
+          sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Wiki',
         },
