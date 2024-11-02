@@ -14,4 +14,4 @@ Ce projet de reconstitution d'une *domus* romaine dans Minecraft est né d'un in
   
 
 ### 🖼️ Image de projet
-Mettre image
+![domsu img offi 2.png](image%2Fdomsu%20img%20offi%202.png)

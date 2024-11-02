@@ -13,4 +13,4 @@ La *domus* est une partie intégrante de l'architecture romaine. 🏛️ Elle a 
 - **Architecture** 🧱 : Les différentes pièces et leur disposition étaient soigneusement pensées pour maximiser l'espace et la lumière.
 
 ### 🖼️ Image historique
-Mettre image
+![Dommaine de plassac.png](image%2FDommaine%20de%20plassac.png) 

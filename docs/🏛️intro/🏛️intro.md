@@ -15,4 +15,5 @@ Dans cette section, vous découvrirez comment nous avons abordé ce projet ambit
 La *domus* était plus qu'une simple maison ; elle représentait un espace de vie, de travail et de rassemblement social. Dans cette section, nous vous donnerons un aperçu de son importance dans la vie quotidienne des Romains.
 
 ### 🖼️ Image illustrative
-Mettre image 
+
+![la domus intro md image.png](image%2Fla%20domus%20intro%20md%20image.png)
