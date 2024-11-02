@@ -1,4 +1,4 @@
-import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
+import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
 
 const sidebars: SidebarsConfig = {
   tutorialSidebar: [
@@ -36,8 +36,8 @@ const sidebars: SidebarsConfig = {
         'description_pieces/description_pieces',
         'description_pieces/atrium',
         'description_pieces/cubiculum',
-        'description_pieces/hotrus' +
-        'description_pieces/triclinium',// Mettez à jour avec des sous-documents si nécessaire
+        'description_pieces/hortus',
+        'description_pieces/triclinium', // Séparation correcte des items
       ],
     },
     {
@@ -47,22 +47,22 @@ const sidebars: SidebarsConfig = {
         'galerie/images_domus',
       ],
     },
-    //{
-      //type: 'category',
-     // label: '📚 Références et Documentation',
-      //items: [
-        //'references/sources_historique',
-        //'references/liens_externes',
-      //],
-    //},
-    //{
-     // type: 'category',
-      //label: '💬 Discussions et Contributions',
-      //items: [
-        //'discussions/commentaires',
-        //'discussions/contribution',
-      //],
-    //},
+    // {
+    //   type: 'category',
+    //   label: '📚 Références et Documentation',
+    //   items: [
+    //     'references/sources_historique',
+    //     'references/liens_externes',
+    //   ],
+    // },
+    // {
+    //   type: 'category',
+    //   label: '💬 Discussions et Contributions',
+    //   items: [
+    //     'discussions/commentaires',
+    //     'discussions/contribution',
+    //   ],
+    // },
   ],
 };
 
