@@ -1,6 +1,6 @@
 ---
-id: 💻developpement
-title:💻  Développement de la Domus sur Logiciels
+id: "💻developpement"
+title: "💻 Développement de la Domus sur Logiciels"
 sidebar_position: 1
 ---
 
