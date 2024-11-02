@@ -12,4 +12,4 @@ L'**atrium** est le cœur de la *domus*, servant de lieu de réception et de sym
 L'atrium était l'endroit où l'on' accueillait les invités .
 
 ### 🖼️ Images 
-![Minecraft 02_11_2024 17_32_16.png](images%2FMinecraft%2002_11_2024%2017_32_16.png)
+![3.png](images%2F3.png)
