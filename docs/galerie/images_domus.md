@@ -1,10 +1,19 @@
 ---
 id: images_domus
-title: "🖼️ Videos teaser"
+title: "🖼️ Vidéos teaser"
 sidebar_position: 1
 ---
 
-# 🖼️ Videos teaser de la domus:
+# 🖼️ Vidéos teaser de la domus
 
-Vous souhaitez voir tout les teasers? C'est ici!
+Vous souhaitez voir tous les teasers ? C'est ici !
 
+<iframe
+width="560"
+height="315"
+src="https://www.youtube.com/embed/ggnkNxP4qhU"
+title="Teaser de la Domus"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+></iframe>
