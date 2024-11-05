@@ -6,7 +6,7 @@ sidebar_position: 4
 
 # 🚧 Étapes de Construction
 
-La construction s'est faite en plusieurs étapes, chacune illustrée par des images et des diaporamas pour montrer l'avancement progressif.
+La construction s'est faite en plusieurs étapes, 
 
 ## 🛠 Étapes principales
 1. **Création de tous les batiments avec world edit** 🧱

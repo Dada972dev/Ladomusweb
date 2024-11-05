@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # 🏠 Description des Pièces de la *Domus*
 
-Découvrez les 4 pièces de la *domus* romaine, chacune ayant une fonction bien spécifique et des détails architecturaux uniques.
+Découvrez les 5 pièces de la *domus* romaine, chacune ayant une fonction bien spécifique et des détails architecturaux uniques.
 
 ## 📜 Table des matières
 - 🌊 [Atrium](./atrium)

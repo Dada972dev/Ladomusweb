@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # 🖥 Logiciels utilisés
 
-Nous avons mobilisé plusieurs logiciels pour la réalisation de notre projet, tant pour le développement du site web que pour la création du pack de ressources Minecraft.
+Nous avons utilisés plusieurs logiciels pour la réalisation dela domus, tant pour le développement du site web que pour la création du pack de ressources Minecraft.
 ## Outils pour le mod
 - **🛠 Block bench** : Creation des models 3D,textures et animations.
 - **🔧 Vscode/JetBrainRider** : Logiciel de code integrant de multiples plugins.

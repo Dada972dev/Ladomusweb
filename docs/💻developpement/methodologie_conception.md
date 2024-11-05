@@ -6,7 +6,7 @@ sidebar_position: 3
 
 # 🛠 Méthodologie de conception
 
-Nous avons suivi un processus structuré pour développer la reconstitution, le site et le pack de ressources. Voici les étapes pour chaque aspect du projet.
+Nous avons suivi un cahier des taches à la lettre pour pour développer le site et le pack de ressources. Voici les étapes pour chaque aspect du projet.
 ## 🎨 Création du pack du mod
 1. **Redaction du cahier des charges** ✒️: Mise en place de tous ce qui est ajouté.
 2. **Conception des blocks** 🖌️ : Création de nouveaux blocks et entitées .

@@ -6,11 +6,11 @@ sidebar_position: 1
 
 # 💻 Développement de la Domus sur Logiciels
 
-Le développement de la *domus* a nécessité une approche en deux volets : la création de la reconstitution dans Minecraft et le développement des supports complémentaires, à savoir le site web explicatif et le pack de ressources.
+Le développement de la *domus* a nécessité une approche en deux phases : La creation du mod , la construction et pour finir le site web explicatif
 
 ## 🖥 Logiciels utilisés
 Présentation des principaux logiciels utilisés pour le projet.
 
 ## 🛠 Méthodologie de conception
-Détails sur les étapes de développement, de la modélisation initiale à la finalisation.
+Détails sur les étapes de développement, de la modélisation à la finalisation.
 
