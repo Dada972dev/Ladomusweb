@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # 📝 Planification et Inspiration
 
-La reconstitution de la *domus* a commencé par une phase de recherche ou nous avons choisi une domus à reconstitué..
+La reconstitution de la *domus* a commencé par une phase de recherche ou nous avons choisi une domus à reconstitué.
 
 ## 📚 Redaction cahier des charges
 Les conditions importantes :
