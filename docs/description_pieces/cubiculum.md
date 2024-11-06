@@ -6,7 +6,7 @@ sidebar_position: 3
 
 # 🛏️ Chambres (Cubiculum)
 
-Les chambres, sont des espaces totalement privées. Elles sont généralement pauvres en meuble, mais ornées de tissus et de peintures murales.
+Les chambres, sont des espaces totalement privées. Elles sont généralement pauvres en meubles, mais ornées de tissus et de peintures murales.
 
 
 

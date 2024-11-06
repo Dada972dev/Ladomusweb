@@ -10,8 +10,8 @@ Nous avons suivi un cahier des taches à la lettre pour pour développer le site
 ## 🎨 Création du pack du mod
 1. **Redaction du cahier des charges** ✒️: Mise en place de tous ce qui est ajouté.
 2. **Conception des blocks** 🖌️ : Création de nouveaux blocks et entitées .
-3. **Test et ajustement** ⚙️ : Importation des textures dans Minecraft et ajustements pour s'assurer de la cohérence.
-4. **Optimisation du pack** 🔧 : Compression et organisation des fichiers pour une performance optimale, test in-game puis test de performance sur le beta789.
+3. **Test et ajustement** ⚙️ : Importation des textures dans Minecraft et ajustements .
+4. **Optimisation du pack** 🔧 : Compression et organisation des fichiers pour une meilleure performance , test in-game puis test de performance sur le beta789.
 5. **Reprise de pack existants** 💾 : Reprise de pack existant + du nouveau (version finale) et ajout dans la base de donné du serveur Beta789 .
 
 ## 🌐 Développement du site web

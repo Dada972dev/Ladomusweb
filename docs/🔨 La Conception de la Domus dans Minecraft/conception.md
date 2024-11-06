@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # 🔨 La Conception de la Domus dans Minecraft
 
-Découvrez les détails et les étapes de la conception de notre *domus* dans Minecraft, depuis la redaction du cahier des charges jusqu'à la finalisation de la construction.
+Découvrez les détails et les étapes de la création de notre *domus* dans Minecraft, depuis la redaction du cahier des taches jusqu'à la finalisation de la construction.
 
 ## 📜 Table des matières
 - 📝 [Planification et inspiration](./planification_inspiration)

@@ -38,6 +38,7 @@ const sidebars: SidebarsConfig = {
         'description_pieces/cubiculum',
         'description_pieces/hortus',
         'description_pieces/triclinium', // Séparation correcte des items
+        'description_pieces/bains',
       ],
     },
     {

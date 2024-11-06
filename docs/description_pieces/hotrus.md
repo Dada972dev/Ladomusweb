@@ -5,7 +5,7 @@ sidebar_position: 4
 ---
 # 🌳 Jardin (Hortus)
 
-Le jardin  ou *hortus*, est un espace verdoyant qui ajoute à la beauté à la *domus*. On y trouve souvent des fleurs, arbres fruitiers, et herbes aromatiques.
+Le jardin  ou *hortus*, est un espace qui ajoute à la beauté à la *domus*. On y trouve souvent des fleurs, arbres fruitiers, et herbes aromatiques.
 
 
 

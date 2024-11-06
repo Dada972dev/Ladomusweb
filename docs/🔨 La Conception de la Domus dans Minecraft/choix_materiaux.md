@@ -6,7 +6,8 @@ sidebar_position: 3
 
 # 🧱 Choix des Matériaux
 
-Pour recréer la domus la plus realiste possible, nous avons sélectionné et devloppés des matériaux dans Minecraft qui correspondent aux éléments de construction utilisés dans la Rome antique.
+Pour recréer la domus la plus realiste possible, nous avons sélectionné et devloppés des matériaux dans Minecraft qui correspondent aux éléments de construction utilisés dans la vie réelle.
+
 
 ## 🏛️ Tableau comparatif des matériaux
 

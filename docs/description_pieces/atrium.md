@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # 🌊 Atrium
 
-L'**atrium** est le cœur de la *domus*, servant de lieu de réception et de symbole de prestige pour la famille.
+L'**atrium** est le cœur de la *domus*, il sert de lieu d'accueil pour la famille et les invités.
 
 ## 🏛️ Fonction
 L'atrium était l'endroit où l'on' accueillait les invités .

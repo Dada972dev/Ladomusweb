@@ -13,3 +13,4 @@ Découvrez les 5 pièces de la *domus* romaine, chacune ayant une fonction bien 
 - 🛏️[Cubiculum](./cubiculum)
 - 🍽️ [Triclinium](./triclinium)
 - 🌳 [Hortus](./hortus)
+- 🛁 [thermæ](./bains)
