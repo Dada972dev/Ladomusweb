@@ -12,5 +12,3 @@ La salle à manger, ou *triclinium*, est un espace où la famille se retrouve po
 ## Décoration
 Les murs de la triclinium sont souvent composés de fresques représentant des scènes de la mythologie ou de la vie quotidienne. (comme une grande partie des murs)
 
-### 🖼️ Images 
-![4.png](images%2F4.png)
